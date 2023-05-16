@@ -1,0 +1,107 @@
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Started mail_all_vendors()
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Started disconnect_to_db
+INFO:root:Disconnected from database
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Started disconnect_to_db
+INFO:root:Disconnected from database
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Started disconnect_to_db
+INFO:root:Disconnected from database
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Started disconnect_to_db
+INFO:root:Disconnected from database
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Started disconnect_to_db
+INFO:root:Disconnected from database
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Started disconnect_to_db
+INFO:root:Disconnected from database
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Started disconnect_to_db
+INFO:root:Disconnected from database
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Started disconnect_to_db
+INFO:root:Disconnected from database
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Started disconnect_to_db
+INFO:root:Disconnected from database
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Started disconnect_to_db
+INFO:root:Disconnected from database
+INFO:root:Started disconnect_to_db
+INFO:root:Disconnected from database
+INFO:root:Mailed RFQs to all vendors
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Started winning_vendor()
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Started reading_pdf()
+INFO:root:Imports successfull
+INFO:root:Started reading_pdf()
+INFO:root:Imports successfull
+INFO:root:Started reading_pdf()
+INFO:root:Imports successfull
+INFO:root:Started reading_pdf()
+INFO:root:Imports successfull
+INFO:root:Started reading_pdf()
+INFO:root:Imports successfull
+INFO:root:Winning vendor: Superior Products Co.
+INFO:root:Winning RFQ id: 20230515131611149603
+INFO:root:Winning RFQ File name : 20230515131611149603_Quotation Superior Products Co..pdf
+INFO:root:Started disconnect_to_db
+INFO:root:Disconnected from database
+INFO:root:Started conv_po_pdf() on 20230515131611149603_Quotation Superior Products Co..pdf
+INFO:root:Imports successfull
+INFO:root:Winning vendor name: Superior Products Co.
+INFO:root:PO filename: 20230515131611149603_PO.pdf
+INFO:root:PO id: 20230515131611149603
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Back to conv_po_pdf()
+INFO:root:Extracting data from 20230515131611149603_Quotation Superior Products Co..pdf
+INFO:root:Started reading_pdf()
+INFO:root:Imports successfull
+INFO:root:Back to conv_po_pdf()
+INFO:root:Started disconnect_to_db
+INFO:root:Disconnected from database
+INFO:root:Back to conv_po_pdf()
+INFO:root:Operation successfull from conv_po_pdf
+INFO:root:Started connect_to_db()
+INFO:root:Imports successfull
+INFO:root:Connected to Database...
+INFO:root:Started disconnect_to_db
+INFO:root:Disconnected from database
